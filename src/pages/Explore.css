@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Bowlby+One+SC&family=Ubuntu:ital,wght@1,300&display=swap');
+
+h4{
+    font-family: 'Bowlby One SC', cursive;
+    margin-top: 50px;
+    border-bottom: 2px solid black;
+}
+
+.btn-outline-primary{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.readingspace{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 250px;
+}

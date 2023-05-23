@@ -1,0 +1,14 @@
+.slide{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.carousel-control-prev-icon{
+    color: yellow;
+}
+.d-block{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
